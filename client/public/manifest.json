@@ -1,0 +1,17 @@
+{
+    "short_name": "Tyhjyys",
+    "name": "Tyhjyys.fun",
+    "icons": [
+      {
+        "src": "/favicon.ico",
+        "type": "image/x-icon",
+        "sizes": "256x256"
+      }
+
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff"
+  }
+  
